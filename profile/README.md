@@ -35,14 +35,14 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1200&lines=🚀+Intelligent+Code+Assistance+in+Your+Terminal;🔧+Deep+Codebase+Understanding+%26+Context+Awareness;⚡+Eliminating+Context-Switching+for+Developers;🏢+Enterprise-Grade+Security+%26+Privacy;🌐+Trusted+by+2M%2B+Developers+Worldwide" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1200&lines=Intelligent+Code+Assistance+in+Your+Terminal;Deep+Codebase+Understanding+and+Context+Awareness;Eliminating+Context-Switching+for+Developers;Enterprise-Grade+Security+and+Privacy;Trusted+by+2M%2B+Developers+Worldwide" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <!-- ABOUT SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=FF6B35&center=true&vCenter=true&repeat=false&width=800&lines=🚀+ABOUT+NASCODER" alt="About"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=FF6B35&center=true&vCenter=true&repeat=false&width=800&lines=ABOUT+NASCODER" alt="About"/>
 </div>
 
 <div align="center">
@@ -96,7 +96,7 @@
 
 <!-- ENTERPRISE CREDENTIALS -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=FF6B35&center=true&vCenter=true&repeat=false&width=1000&lines=🏢+STARTUP+PROGRAM+PARTNERSHIPS" alt="Partnerships"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=FF6B35&center=true&vCenter=true&repeat=false&width=1000&lines=STARTUP+PROGRAM+PARTNERSHIPS" alt="Partnerships"/>
 </div>
 
 <br/>
@@ -184,7 +184,7 @@
 
 <!-- TECHNOLOGY STACK -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=FF6B35&center=true&vCenter=true&repeat=false&width=800&lines=⚙️+TECHNOLOGY+STACK" alt="Tech Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=FF6B35&center=true&vCenter=true&repeat=false&width=800&lines=TECHNOLOGY+STACK" alt="Tech Stack"/>
 </div>
 
 <br/>
@@ -228,7 +228,7 @@
 
 <!-- FOUNDER SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=FF6B35&center=true&vCenter=true&repeat=false&width=800&lines=👨‍💻+FOUNDER" alt="Founder"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=FF6B35&center=true&vCenter=true&repeat=false&width=800&lines=FOUNDER" alt="Founder"/>
 </div>
 
 <br/>
@@ -277,7 +277,7 @@
 
 <!-- CONTACT & COLLABORATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=FF6B35&center=true&vCenter=true&repeat=false&width=1000&lines=🤝+JOIN+THE+DEVELOPER+REVOLUTION" alt="Join"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=FF6B35&center=true&vCenter=true&repeat=false&width=1000&lines=JOIN+THE+DEVELOPER+REVOLUTION" alt="Join"/>
 </div>
 
 <br/>
