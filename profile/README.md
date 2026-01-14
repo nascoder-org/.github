@@ -142,42 +142,32 @@
 <summary><h2 align="center" style="color: #FF6B35;">Product Suite</h2></summary>
 
 <div align="center">
-  <table style="width: 95%; margin: 20px auto; border-collapse: separate; border-spacing: 15px;">
+  <table style="width: 90%; margin: 20px auto; border-collapse: separate; border-spacing: 25px;">
     <tr>
-      <td width="33%" style="padding: 30px; border: 3px solid #667eea; border-radius: 12px; background: linear-gradient(135deg, rgba(102,126,234,0.1) 0%, rgba(118,75,162,0.1) 100%);">
+      <td width="50%" style="padding: 35px; border: 3px solid #667eea; border-radius: 12px; background: linear-gradient(135deg, rgba(102,126,234,0.1) 0%, rgba(118,75,162,0.1) 100%);">
         <img src="https://img.shields.io/badge/AI-Powered-667eea?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered" style="margin-bottom: 15px;"/>
-        <h3 style="color: #a8b3ff; font-size: 26px; margin-bottom: 10px;">NasCoder CLI</h3>
-        <p style="font-size: 17px; color: #e6edf3; margin-bottom: 20px;"><strong>AI-Powered Developer Assistant</strong></p>
-        <ul style="text-align: left; font-size: 16px; line-height: 2.2; color: #c9d1d9;">
+        <h3 style="color: #a8b3ff; font-size: 28px; margin-bottom: 10px;">NasCoder CLI</h3>
+        <p style="font-size: 18px; color: #e6edf3; margin-bottom: 20px;"><strong>AI-Powered Developer Assistant</strong></p>
+        <ul style="text-align: left; font-size: 17px; line-height: 2.2; color: #c9d1d9;">
           <li>✓ Intelligent code generation</li>
           <li>✓ Automated debugging & testing</li>
           <li>✓ Architecture planning</li>
           <li>✓ Deep codebase understanding</li>
           <li>✓ Terminal-native workflow</li>
+          <li>✓ Context-aware assistance</li>
         </ul>
       </td>
-      <td width="33%" style="padding: 30px; border: 3px solid #3fb950; border-radius: 12px; background: linear-gradient(135deg, rgba(63,185,80,0.1) 0%, rgba(46,160,67,0.1) 100%);">
+      <td width="50%" style="padding: 35px; border: 3px solid #3fb950; border-radius: 12px; background: linear-gradient(135deg, rgba(63,185,80,0.1) 0%, rgba(46,160,67,0.1) 100%);">
         <img src="https://img.shields.io/badge/Voice-Activated-3fb950?style=for-the-badge&logo=googleassistant&logoColor=white" alt="Voice Activated" style="margin-bottom: 15px;"/>
-        <h3 style="color: #a4ffa4; font-size: 26px; margin-bottom: 10px;">Voice CLI</h3>
-        <p style="font-size: 17px; color: #e6edf3; margin-bottom: 20px;"><strong>Voice-Activated Development</strong></p>
-        <ul style="text-align: left; font-size: 16px; line-height: 2.2; color: #c9d1d9;">
-          <li>✓ Hands-free coding</li>
+        <h3 style="color: #a4ffa4; font-size: 28px; margin-bottom: 10px;">NasCoder Voice CLI</h3>
+        <p style="font-size: 18px; color: #e6edf3; margin-bottom: 20px;"><strong>Voice-Activated Development</strong></p>
+        <ul style="text-align: left; font-size: 17px; line-height: 2.2; color: #c9d1d9;">
+          <li>✓ Hands-free coding experience</li>
           <li>✓ Voice-to-code translation</li>
           <li>✓ Natural language commands</li>
           <li>✓ Accessibility-first design</li>
-          <li>✓ Deepgram integration</li>
-        </ul>
-      </td>
-      <td width="33%" style="padding: 30px; border: 3px solid #FF6B35; border-radius: 12px; background: linear-gradient(135deg, rgba(255,107,53,0.1) 0%, rgba(255,140,66,0.1) 100%);">
-        <img src="https://img.shields.io/badge/Fintech-Platform-FF6B35?style=for-the-badge&logo=stripe&logoColor=white" alt="Fintech" style="margin-bottom: 15px;"/>
-        <h3 style="color: #ffa07a; font-size: 26px; margin-bottom: 10px;">TakaPayment</h3>
-        <p style="font-size: 17px; color: #e6edf3; margin-bottom: 20px;"><strong>Fintech Infrastructure</strong></p>
-        <ul style="text-align: left; font-size: 16px; line-height: 2.2; color: #c9d1d9;">
-          <li>✓ Payment processing</li>
-          <li>✓ Multi-currency support</li>
-          <li>✓ API-first design</li>
-          <li>✓ Secure transactions</li>
-          <li>✓ Developer-friendly SDKs</li>
+          <li>✓ Deepgram AI integration</li>
+          <li>✓ Multi-language support</li>
         </ul>
       </td>
     </tr>
