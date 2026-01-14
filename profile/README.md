@@ -61,8 +61,9 @@
 <div align="center">
   <table style="width: 95%; margin: 40px auto 50px; border-spacing: 20px;">
     <tr>
-      <td width="33%" style="padding: 30px; border: 2px solid rgba(255,107,53,0.5); border-radius: 16px; background: linear-gradient(135deg, rgba(255,107,53,0.15) 0%, rgba(255,107,53,0.08) 100%);">
-        <h3 style="color: #ffa07a; font-size: 22px; font-weight: 700; margin-bottom: 20px;">🎯 Our Mission</h3>
+      <td width="33%" style="padding: 35px; border: 3px solid rgba(255,107,53,0.6); border-radius: 16px; background: linear-gradient(135deg, rgba(255,107,53,0.15) 0%, rgba(255,107,53,0.08) 100%);">
+        <img src="https://img.shields.io/badge/Mission-Driven-FF6B35?style=for-the-badge&logo=target&logoColor=white" alt="Mission" style="margin-bottom: 15px;"/>
+        <h3 style="color: #ffa07a; font-size: 24px; font-weight: 700; margin-bottom: 20px;">Our Mission</h3>
         <ul style="text-align: left; font-size: 17px; line-height: 2.2; color: #e6edf3; font-weight: 400;">
           <li><strong>Eliminate Context-Switching</strong> — Keep developers in their flow</li>
           <li><strong>Deep Code Understanding</strong> — AI that truly understands your codebase</li>
@@ -70,8 +71,9 @@
           <li><strong>Developer-First</strong> — Built by developers, for developers</li>
         </ul>
       </td>
-      <td width="33%" style="padding: 30px; border: 2px solid rgba(102,126,234,0.5); border-radius: 16px; background: linear-gradient(135deg, rgba(102,126,234,0.15) 0%, rgba(102,126,234,0.08) 100%);">
-        <h3 style="color: #a8b3ff; font-size: 22px; font-weight: 700; margin-bottom: 20px;">💡 Core Features</h3>
+      <td width="33%" style="padding: 35px; border: 3px solid rgba(102,126,234,0.6); border-radius: 16px; background: linear-gradient(135deg, rgba(102,126,234,0.15) 0%, rgba(102,126,234,0.08) 100%);">
+        <img src="https://img.shields.io/badge/Innovation-First-667eea?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Features" style="margin-bottom: 15px;"/>
+        <h3 style="color: #a8b3ff; font-size: 24px; font-weight: 700; margin-bottom: 20px;">Core Features</h3>
         <ul style="text-align: left; font-size: 17px; line-height: 2.2; color: #e6edf3; font-weight: 400;">
           <li><strong>Intelligent Code Gen</strong> — Context-aware code generation</li>
           <li><strong>Automated Debugging</strong> — Find & fix bugs faster</li>
@@ -79,8 +81,9 @@
           <li><strong>MCP Integration</strong> — Extensible with Model Context Protocol</li>
         </ul>
       </td>
-      <td width="33%" style="padding: 30px; border: 2px solid rgba(63,185,80,0.5); border-radius: 16px; background: linear-gradient(135deg, rgba(63,185,80,0.15) 0%, rgba(63,185,80,0.08) 100%);">
-        <h3 style="color: #a4ffa4; font-size: 22px; font-weight: 700; margin-bottom: 20px;">🏆 Traction</h3>
+      <td width="33%" style="padding: 35px; border: 3px solid rgba(63,185,80,0.6); border-radius: 16px; background: linear-gradient(135deg, rgba(63,185,80,0.15) 0%, rgba(63,185,80,0.08) 100%);">
+        <img src="https://img.shields.io/badge/Growth-2M%2B_Community-3fb950?style=for-the-badge&logo=trending-up&logoColor=white" alt="Traction" style="margin-bottom: 15px;"/>
+        <h3 style="color: #a4ffa4; font-size: 24px; font-weight: 700; margin-bottom: 20px;">Traction</h3>
         <ul style="text-align: left; font-size: 17px; line-height: 2.2; color: #e6edf3; font-weight: 400;">
           <li><strong>2M+ Subscribers</strong> — Global tech community</li>
           <li><strong>3M+ Social Reach</strong> — Across all platforms</li>
@@ -104,29 +107,29 @@
 <div align="center">
   <table style="width: 95%; margin: 30px auto; border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td align="center" width="25%" style="padding: 30px; background: linear-gradient(135deg, #FF9900 0%, #FF6600 100%); border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
-        <h2 style="color: white; margin: 10px 0; font-size: 28px;">☁️ AWS</h2>
-        <h1 style="color: #FFD700; margin: 15px 0; font-size: 36px;">$5,000</h1>
-        <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Bedrock Credits</p>
-        <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Infrastructure</p>
+      <td align="center" width="25%" style="padding: 35px; background: linear-gradient(135deg, #232F3E 0%, #1A1F2E 100%); border: 2px solid #FF9900; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="margin-bottom: 15px;"/>
+        <h1 style="color: #FFD700; margin: 15px 0; font-size: 42px; font-weight: 800;">$5,000</h1>
+        <p style="color: #FF9900; font-size: 18px; margin: 8px 0; font-weight: 600;">Bedrock AI Credits</p>
+        <p style="color: #AAB7B8; font-size: 16px; margin: 5px 0;">Cloud Infrastructure</p>
       </td>
-      <td align="center" width="25%" style="padding: 30px; background: linear-gradient(135deg, #0078D4 0%, #004B87 100%); border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
-        <h2 style="color: white; margin: 10px 0; font-size: 28px;">🔄 Confluent</h2>
-        <h1 style="color: #FFD700; margin: 15px 0; font-size: 36px;">$2,000</h1>
-        <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Kafka Credits</p>
-        <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Event Streaming</p>
+      <td align="center" width="25%" style="padding: 35px; background: linear-gradient(135deg, #1A1A2E 0%, #0F0F1E 100%); border: 2px solid #00A6ED; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="https://img.shields.io/badge/Confluent-00A6ED?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Confluent" style="margin-bottom: 15px;"/>
+        <h1 style="color: #FFD700; margin: 15px 0; font-size: 42px; font-weight: 800;">$2,000</h1>
+        <p style="color: #00A6ED; font-size: 18px; margin: 8px 0; font-weight: 600;">Kafka Platform</p>
+        <p style="color: #AAB7B8; font-size: 16px; margin: 5px 0;">Event Streaming</p>
       </td>
-      <td align="center" width="25%" style="padding: 30px; background: linear-gradient(135deg, #EB5424 0%, #C03B1D 100%); border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
-        <h2 style="color: white; margin: 10px 0; font-size: 28px;">🔐 Auth0</h2>
-        <h1 style="color: #FFD700; margin: 15px 0; font-size: 36px;">Enterprise</h1>
-        <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Authentication</p>
-        <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Custom Domain</p>
+      <td align="center" width="25%" style="padding: 35px; background: linear-gradient(135deg, #1E1E2E 0%, #151520 100%); border: 2px solid #EB5424; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" style="margin-bottom: 15px;"/>
+        <h1 style="color: #FFD700; margin: 15px 0; font-size: 42px; font-weight: 800;">Enterprise</h1>
+        <p style="color: #EB5424; font-size: 18px; margin: 8px 0; font-weight: 600;">Authentication Platform</p>
+        <p style="color: #AAB7B8; font-size: 16px; margin: 5px 0;">Custom Domain</p>
       </td>
-      <td align="center" width="25%" style="padding: 30px; background: linear-gradient(135deg, #00BFA5 0%, #00897B 100%); border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
-        <h2 style="color: white; margin: 10px 0; font-size: 28px;">🎙️ Deepgram</h2>
-        <h1 style="color: #FFD700; margin: 15px 0; font-size: 36px;">AI Voice</h1>
-        <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Speech-to-Text</p>
-        <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Voice AI</p>
+      <td align="center" width="25%" style="padding: 35px; background: linear-gradient(135deg, #0F1419 0%, #080B0E 100%); border: 2px solid #00E396; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="https://img.shields.io/badge/Deepgram-00E396?style=for-the-badge&logoColor=white" alt="Deepgram" style="margin-bottom: 15px;"/>
+        <h1 style="color: #FFD700; margin: 15px 0; font-size: 42px; font-weight: 800;">AI Voice</h1>
+        <p style="color: #00E396; font-size: 18px; margin: 8px 0; font-weight: 600;">Speech-to-Text API</p>
+        <p style="color: #AAB7B8; font-size: 16px; margin: 5px 0;">Voice Intelligence</p>
       </td>
     </tr>
   </table>
@@ -136,15 +139,16 @@
 
 <!-- ENTERPRISE SERVICES -->
 <details open>
-<summary><h2 align="center" style="color: #FF6B35;">🛠️ Product Suite</h2></summary>
+<summary><h2 align="center" style="color: #FF6B35;">Product Suite</h2></summary>
 
 <div align="center">
   <table style="width: 95%; margin: 20px auto; border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td width="33%" style="padding: 25px; border: 3px solid #667eea; border-radius: 12px; background: linear-gradient(135deg, rgba(102,126,234,0.1) 0%, rgba(118,75,162,0.1) 100%);">
-        <h3 style="color: #a8b3ff; font-size: 24px;">🤖 NasCoder CLI</h3>
-        <p style="font-size: 16px; color: #e6edf3;"><strong>AI-Powered Developer Assistant</strong></p>
-        <ul style="text-align: left; font-size: 16px; line-height: 2; color: #c9d1d9;">
+      <td width="33%" style="padding: 30px; border: 3px solid #667eea; border-radius: 12px; background: linear-gradient(135deg, rgba(102,126,234,0.1) 0%, rgba(118,75,162,0.1) 100%);">
+        <img src="https://img.shields.io/badge/AI-Powered-667eea?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered" style="margin-bottom: 15px;"/>
+        <h3 style="color: #a8b3ff; font-size: 26px; margin-bottom: 10px;">NasCoder CLI</h3>
+        <p style="font-size: 17px; color: #e6edf3; margin-bottom: 20px;"><strong>AI-Powered Developer Assistant</strong></p>
+        <ul style="text-align: left; font-size: 16px; line-height: 2.2; color: #c9d1d9;">
           <li>✓ Intelligent code generation</li>
           <li>✓ Automated debugging & testing</li>
           <li>✓ Architecture planning</li>
@@ -152,10 +156,11 @@
           <li>✓ Terminal-native workflow</li>
         </ul>
       </td>
-      <td width="33%" style="padding: 25px; border: 3px solid #3fb950; border-radius: 12px; background: linear-gradient(135deg, rgba(63,185,80,0.1) 0%, rgba(63,185,80,0.05) 100%);">
-        <h3 style="color: #a4ffa4; font-size: 24px;">🗣️ NasCoder Voice CLI</h3>
-        <p style="font-size: 16px; color: #e6edf3;"><strong>Voice-Activated Development</strong></p>
-        <ul style="text-align: left; font-size: 16px; line-height: 2; color: #c9d1d9;">
+      <td width="33%" style="padding: 30px; border: 3px solid #3fb950; border-radius: 12px; background: linear-gradient(135deg, rgba(63,185,80,0.1) 0%, rgba(46,160,67,0.1) 100%);">
+        <img src="https://img.shields.io/badge/Voice-Activated-3fb950?style=for-the-badge&logo=googleassistant&logoColor=white" alt="Voice Activated" style="margin-bottom: 15px;"/>
+        <h3 style="color: #a4ffa4; font-size: 26px; margin-bottom: 10px;">Voice CLI</h3>
+        <p style="font-size: 17px; color: #e6edf3; margin-bottom: 20px;"><strong>Voice-Activated Development</strong></p>
+        <ul style="text-align: left; font-size: 16px; line-height: 2.2; color: #c9d1d9;">
           <li>✓ Hands-free coding</li>
           <li>✓ Voice-to-code translation</li>
           <li>✓ Natural language commands</li>
@@ -163,10 +168,11 @@
           <li>✓ Deepgram integration</li>
         </ul>
       </td>
-      <td width="33%" style="padding: 25px; border: 3px solid #FF6B35; border-radius: 12px; background: linear-gradient(135deg, rgba(255,107,53,0.1) 0%, rgba(255,107,53,0.05) 100%);">
-        <h3 style="color: #ffa07a; font-size: 24px;">💰 TakaPayment</h3>
-        <p style="font-size: 16px; color: #e6edf3;"><strong>Fintech Infrastructure</strong></p>
-        <ul style="text-align: left; font-size: 16px; line-height: 2; color: #c9d1d9;">
+      <td width="33%" style="padding: 30px; border: 3px solid #FF6B35; border-radius: 12px; background: linear-gradient(135deg, rgba(255,107,53,0.1) 0%, rgba(255,140,66,0.1) 100%);">
+        <img src="https://img.shields.io/badge/Fintech-Platform-FF6B35?style=for-the-badge&logo=stripe&logoColor=white" alt="Fintech" style="margin-bottom: 15px;"/>
+        <h3 style="color: #ffa07a; font-size: 26px; margin-bottom: 10px;">TakaPayment</h3>
+        <p style="font-size: 17px; color: #e6edf3; margin-bottom: 20px;"><strong>Fintech Infrastructure</strong></p>
+        <ul style="text-align: left; font-size: 16px; line-height: 2.2; color: #c9d1d9;">
           <li>✓ Payment processing</li>
           <li>✓ Multi-currency support</li>
           <li>✓ API-first design</li>
